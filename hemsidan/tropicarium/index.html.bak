@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8" />
+	<link rel="stylesheet" type="text/css" href="css/base.css" />
+	<link rel="stylesheet" type="text/css" href="css/menu.css" />
+	<link rel="stylesheet" type="text/css" href="css/slider.css" />
+	<title>Tropicarium</title>
+
+	
+<body>
+    
+		<div id="menu">
+			<nav>
+				<ul>
+					<li><a href='index.html' class="logo"><img src="img/logo.png"></a></li>
+					<li><a href='pages/oppettider_priser.html'>Öppettider och priser</a></li>
+					<li><a href='pages/karta.html'>Karta - hitta hit</a></li>
+					<li><a href='pages/vara_djur.html'>Våra djur</a></li>
+					<li><a href='#'>Guidning</a>
+						<ul>
+							<li><a href='pages/guidad_rundtur.html'>Guidad rundtur</a></li>
+							<li><a href='pages/aventyrsguidning.html'>Äventyrsguidning</a></li>
+							<li><a href='pages/barnkalas.html'>Barnkalas</a></li>
+						</ul>
+					</li>
+					<li><a href='#'>Upplevelser</a>
+						<ul>
+							<li><a href='pages/hajmatning.html'>Hajmatning</a></li>
+							<li><a href='pages/hajdykning.html'>Hajdykning</a></li>
+							<li><a href='pages/aventyr.html'>Äventyr</a></li> <!--enmansäventyr, gruppäventyr, äventyrsguidning, barnkalas-->
+						</ul>
+					</li>
+					<li><a href='#'>Information</a>
+						<ul>
+							<li><a href='pages/karta_over_tropicarium.html'>Karta över Tropicarium</a></li>
+							<li><a href='pages/inredningsteknik.html'>Inredningsteknik</a></li>
+							<li><a href='pages/bevarandeprojekt.html'>Bevarandeprojekt</a></li>
+						</ul>
+					</li>
+					<li><a href='pages/kontakta_oss.html'>Kontakta oss</a></li>
+				</ul>
+			</nav>
+		</div>
+        <div id="content">
+			<p>Hej</p>
+        </div> 
+		<div id="slider">
+		
+		</div>
+		
+		<div id="footer">
+			
+	
+	<p>Tropicarium AB, 618 93 Kolmården, Telefon: 011 - 39 52 50, Telefax: 011 - 39 52 69, Mail: info@tropicarium.se</p>
+			<p>© Tropicarium Kolmården 2014 Produktion: <a href="http://www.aumpage.net/">AumPage Network</a></p>
+		</div>
+	
+</body>
+</html>

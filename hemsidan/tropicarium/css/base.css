@@ -1,0 +1,280 @@
+@import url(http://fonts.googleapis.com/css?family=Lato);
+
+@media (min-width: 1500px) {
+body {
+	margin: 0;
+	padding: 0;
+	text-align: left;
+	font-family: 'Lato', sans-serif;
+	background-image:white;
+	text-decoration: none;
+	overflow-x:hidden
+}
+
+h1 {
+	margin: 20px;
+}
+
+p {
+	margin: 10px;
+}
+
+#content {
+	font-size:12px;
+	margin-top: 6em;
+	margin-right: auto;
+	margin-left: auto;
+	background: #fff;
+	box-shadow: 0 3px 10px -2px rgba(0,0,0,.1);
+	border: 1px solid rgba(0,0,0,.1);
+	border-radius: 1px;
+	overflow: hidden;
+	padding-bottom:10em;
+}
+
+#text {
+	margin-top: 8em;
+	margin-left: 12em;
+	margin-right: 1em;
+	float: left;
+}
+
+#text h1 {
+	margin: 0;
+	margin-top: 1em;
+	padding: 0;
+	font-family: 'Arial', sans-serif;
+	font-size: 30px;
+	color: grey;
+}
+
+#text p{
+	margin: 0;
+	margin-top: 1em;
+	padding: 0;
+	font-family: 'Arial', sans-serif;
+	font-size: 14px;
+	color: grey;
+}
+
+#picture {
+	display: table;
+	position: relative;
+	width: 100%;
+	max-width: 500px;
+	max-height:500px;
+	margin-top: 10em;
+	margin-left:auto;
+	margin-right:20em;
+	font-size: 10px;
+}
+
+#googleMap {
+	margin-bottom: -5em;
+	margin-top: 5em;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+footer {
+    position: absolute;
+	text-align: center;
+	font-size:9px;
+	color:#2A2A2A;
+	width:auto;
+	background: #fff;
+	box-shadow: 0 3px 10px -2px rgba(0,0,0,.1);
+	border: 1px solid rgba(0,0,0,.1);
+	width: 100%;
+    bottom: 0;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+}
+
+@media (min-width: 1000px) and (max-width: 1499px) {
+body {
+	margin: 0;
+	padding: 0;
+	text-align: left;
+	font-family: 'Lato', sans-serif;
+	background-image:white;
+	text-decoration: none;
+	overflow-x:hidden
+}
+
+h1 {
+	margin: 15px;
+}
+
+p {
+	margin: 8px;
+}
+
+#content {
+	font-size:10px;
+	margin-top: 6em;
+	margin-right: auto;
+	margin-left: auto;
+	background: #fff;
+	box-shadow: 0 3px 10px -2px rgba(0,0,0,.1);
+	border: 1px solid rgba(0,0,0,.1);
+	border-radius: 1px;
+	overflow: hidden;
+	padding-bottom:10em;
+}
+
+#text {
+	margin-top: 8em;
+	margin-left: 12em;
+	margin-right: 1em;
+	float: left;
+}
+
+#text h1 {
+	margin: 0;
+	margin-top: 1em;
+	padding: 0;
+	font-family: 'Arial', sans-serif;
+	font-size: 22px;
+	color: grey;
+}
+
+#text p{
+	margin: 0;
+	margin-top: 1em;
+	padding: 0;
+	font-family: 'Arial', sans-serif;
+	font-size: 10px;
+	color: grey;
+}
+
+#picture {
+	display: table;
+	position: relative;
+	width: 100%;
+	max-width: 500px;
+	max-height:500px;
+	margin-top: 10em;
+	margin-left:auto;
+	margin-right:20em;
+	font-size: 10px;
+}
+
+#googleMap {
+	margin-bottom: -5em;
+	margin-top: 5em;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+footer {
+    position: absolute;
+	text-align: center;
+	font-size:6px;
+	color:#2A2A2A;
+	width:auto;
+	background: #fff;
+	box-shadow: 0 3px 10px -2px rgba(0,0,0,.1);
+	border: 1px solid rgba(0,0,0,.1);
+	width: 100%;
+    bottom: 0;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+}
+
+@media (max-width: 999px) {
+body {
+	margin: 0;
+	padding: 0;
+	text-align: left;
+	font-family: 'Lato', sans-serif;
+	background-image:white;
+	text-decoration: none;
+	overflow-x:hidden
+}
+
+h1 {
+	margin: 10px;
+}
+
+p {
+	margin: 5px;
+}
+
+#content {
+	font-size:8px;
+	margin-top: 6em;
+	margin-right: auto;
+	margin-left: auto;
+	background: #fff;
+	box-shadow: 0 3px 10px -2px rgba(0,0,0,.1);
+	border: 1px solid rgba(0,0,0,.1);
+	border-radius: 1px;
+	overflow: hidden;
+	padding-bottom:10em;
+}
+
+#text {
+	margin-top: 4em;
+	margin-left: 5em;
+	margin-right: 1em;
+	float: left;
+}
+
+#text h1 {
+	margin: 0;
+	margin-top: 1em;
+	padding: 0;
+	font-family: 'Arial', sans-serif;
+	font-size: 16px;
+	color: grey;
+}
+
+#text p{
+	margin: 0;
+	margin-top: 1em;
+	padding: 0;
+	font-family: 'Arial', sans-serif;
+	font-size: 8px;
+	color: grey;
+}
+
+#picture {
+	display: table;
+	position: relative;
+	width: 100%;
+	max-width: 500px;
+	max-height:500px;
+	margin-top: 10em;
+	margin-left:auto;
+	margin-right:20em;
+	font-size: 10px;
+}
+
+#googleMap {
+	margin-bottom: -5em;
+	margin-top: 5em;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+footer {
+    position: absolute;
+	text-align: center;
+	font-size:6px;
+	color:#2A2A2A;
+	width:auto;
+	background: #fff;
+	box-shadow: 0 3px 10px -2px rgba(0,0,0,.1);
+	border: 1px solid rgba(0,0,0,.1);
+	width: 100%;
+    bottom: 0;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+}
